@@ -1,5 +1,5 @@
 ## Usage at Snapdocs
-This fork version is in use at [monolith scheduling tasks](https://github.com/snapdocs/snapdocs/blob/ec8663419cf94df30b89ea81f63dede1fdd2174f/lib/tasks/one_time_tasks.rake#L226)
+This fork version is in use at [monolith scheduling tasks](https://github.com/snapdocs/snapdocs/blob/ec8663419cf94df30b89ea81f63dede1fdd2174f/lib/tasks/one_time_tasks.rake#L226) and [this gemfile](https://github.com/snapdocs/snapdocs/blob/ec8663419cf94df30b89ea81f63dede1fdd2174f/Gemfile#L435)
 
 Adding a repo-review comment Sept 2024 about the fact that we are using this.
 
