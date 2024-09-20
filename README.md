@@ -1,3 +1,8 @@
+## Usage at Snapdocs
+This fork version is [used by the monolith](https://github.com/snapdocs/snapdocs/blob/ec8663419cf94df30b89ea81f63dede1fdd2174f/Gemfile#L435) to [hide obscene comments](https://github.com/snapdocs/snapdocs/blob/869e3997a6e95b820da3b04505d52f9347a07d6c/app/models/comment.rb#L200)
+
+Adding a repo-review comment Sept 2024 about the fact that we are using this.
+
 # Obscenity [![Build Status](https://secure.travis-ci.org/tjackiw/obscenity.png)](http://travis-ci.org/tjackiw/obscenity)
 
 Obscenity is a profanity filter gem for Ruby/Rubinius, Rails (through ActiveModel), and Rack middleware.
