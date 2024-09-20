@@ -1,3 +1,8 @@
+## Usage at Snapdocs
+This fork version is in use at [monolith scheduling tasks](https://github.com/snapdocs/snapdocs/blob/ec8663419cf94df30b89ea81f63dede1fdd2174f/lib/tasks/one_time_tasks.rake#L226)
+
+Adding a repo-review comment Sept 2024 about the fact that we are using this.
+
 # Obscenity [![Build Status](https://secure.travis-ci.org/tjackiw/obscenity.png)](http://travis-ci.org/tjackiw/obscenity)
 
 Obscenity is a profanity filter gem for Ruby/Rubinius, Rails (through ActiveModel), and Rack middleware.
